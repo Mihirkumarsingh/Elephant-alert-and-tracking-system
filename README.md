@@ -25,6 +25,7 @@ Now, next formula is the people (no of points ) within the four point distance w
 
 # **Working**
 Just Download the files and make changes in connect.php and newalertsubmit.php 
+
 ***Admin login Portal***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture1.JPG)
 ***Message validation and searching employee in nearby region***
