@@ -14,5 +14,5 @@ Taking an initially known point as the starting point, the direction (bearing) a
 
 Finding the destination point along great-circle given the distance and bearing from a start point.
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/bearing_angle.JPG)
-# ***Formula***
-![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/bearing_angle.JPG)
+# **Formula**
+![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/formula.JPG)
