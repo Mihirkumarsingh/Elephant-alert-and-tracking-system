@@ -22,3 +22,6 @@ Where y is latitude, x is longitude, θ is the bearing (clockwise from north), a
 Thus four points are found at the given distance from the central point.
 
 Now, next formula is the people (no of points ) within the four point distance which is found out using BETWEEN SQL query.
+
+# **Working**
+Just Download the files and make changes in connect.php and newalertsubmit.php 
