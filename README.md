@@ -13,3 +13,4 @@ To alert the people in the given range we need the find the range of latitude an
 Taking an initially known point as the starting point, the direction (bearing) and the distance, a destination point is found out.
 
 Finding the destination point along great-circle given the distance and bearing from a start point.
+![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/.JPG)
