@@ -6,4 +6,4 @@ The main idea is to protect the lives of people lost as well as the damage susta
 # **Solution**
 We made a web and mobile based application to alert the people in nearby region and track the movement of various herds of elephant on map, thus preventing the loss of human, environment as well as the elephants themselves. Also, the tracking results are stored which are open to further analysis in order to predict future Human-Elephant Conflicts and take steps in order to resolve the same.
 
-![Screenshot]()
+![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/working_of_software.JPG)
