@@ -15,7 +15,7 @@ if(!empty($_POST["allbooks"]) && $_POST["allbooks"]!="dummy"){
      $authKey = "191191A941Ge9tPD5a4cded0";
      $mobileNumber =  $row1["mobile"];
      curl_setopt_array($curl, array(
-      CURLOPT_URL => "http://api.msg91.com/api/sendhttp.php?country=91&sender=MIHIRR&route=4&mobiles=$mobileNumber&authkey=$authKey&encrypt=&message=Alert!%20HAATHI%20in%20your%20town%20https://http://www.aavartan.org&flash=1&unicode=1&response=json",
+      CURLOPT_URL => "",
       CURLOPT_RETURNTRANSFER => true,
       CURLOPT_ENCODING => "",
       CURLOPT_MAXREDIRS => 10,
