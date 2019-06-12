@@ -28,22 +28,40 @@ Just Download the files and make changes in connect.php and newalertsubmit.php
 
 ***Admin login Portal***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture1.JPG)
+
+
 ***Message validation and searching employee in nearby region***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture2.JPG)
+
+
 ***Employee in nearby region***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture3.JPG)
+
+
 ***Alert Module***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture4.JPG)
+
+
 ***Generating Staff Credentials***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture5.JPG)
+
+
 ***Tracking Information***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture6.JPG)
+
+
 ***User Login Portal***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture7.JPG)
+
+
 ***Elephant Tracking System***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture8.JPG)
+
+
 ***Tracking Ending Module***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture9.JPG)
+
+
 ***Path followed by elephant***
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/Capture10.JPG)
 
