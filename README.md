@@ -16,3 +16,6 @@ Finding the destination point along great-circle given the distance and bearing 
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/bearing_angle.JPG)
 # **Formula**
 ![Screenshot](https://github.com/Mihirkumarsingh/Elephant-alert-and-tracking-system/blob/master/formula.JPG)
+Where y is latitude, x is longitude, θ is the bearing (clockwise from north), angular distance is d/r; d being the distance travelled, r the earth’s radius.
+Thus four points are found at the given distance from the central point.
+Now, next formula is the people (no of points ) within the four point distance which is found out using BETWEEN SQL query.
